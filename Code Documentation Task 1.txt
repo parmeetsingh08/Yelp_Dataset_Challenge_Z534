@@ -1,0 +1,9 @@
+To perform task 1, do the following:
+
+Execute the taskOne.java file. This contains all the necessary code to generate indeces, process review-text, expand query and assign categories
+
+new_task1.py : This extracts 40% of businesses in each category, essentially comprising a little more than 40% of the entire dataset. This is meant to be the training data set.
+
+get_topics.py : This obtains the topics for each businesses' review_text and generates 20 key words that define the topic of the piece of text.
+
+task1.py : This extracts the rest 60% of the reviews for businesses not included in the testing set.
